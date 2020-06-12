@@ -2,14 +2,14 @@
 
 OOP Basic Snake with Swing
 
-### Installation
+## Installation
 
-## Dependencies 
+### Dependencies 
 
 * Java 1.8
 * Swing
 
-## Guide
+### Guide
 
 1. clone repo
 1. javac SortingVisualizerGUI.java
