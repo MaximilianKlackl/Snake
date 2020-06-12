@@ -13,4 +13,4 @@ OOP Basic Snake with Swing
 
 1. clone repo
 1. javac SortingVisualizerGUI.java
-1. java SortingVisualizerGUI.java
+1. java SortingVisualizerGUI.class
